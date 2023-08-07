@@ -77,6 +77,9 @@
         </div>
       </div>
     </div>
+    <div class="lower-banner-2">
+      <a href="https://youtube.com/playlist?list=PLgbkSGbfrPb6xPAW03z4wYB26G3NP_qym"><img src="./assets/banner-youtube-4.jpg"></a>
+    </div>
     <footer class="footer">
       <div class="footer-container">
         <div class="row">
@@ -110,6 +113,15 @@
               <a href="#"><i class="fab fa-instagram"></i></a>
               <a href="#"><i class="fab fa-linkedin-in"></i></a>
             </div>
+          </div>
+          <div class="footnote">
+            <p style="font-size:12px">Halaman ini merupakan kolaborasi bersama team dokter Simas Sehat.</p>
+            <p>&nbsp</p>
+            <p>PT Asuransi Sinar Mas <span>&copy</span> 
+            <span id="copyright">
+                <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
+            </span> All Rights Reserved.</p>
+            <p>PT Asuransi Sinar Mas berizin dan diawasi oleh Otoritas Jasa Keuangan.</p>
           </div>
         </div>
       </div>
