@@ -16,8 +16,7 @@
     </div>
 
     <div class="faq-container">
-        <h1 class="category">Jawaban Konsultasi dengan Dokter Simas Sehat</h1>
-        <p>Anda ingin bertanya kepada dokter sinarmas? <a class="redirect-1" href="https://simassehat.com/layanan/tanya_dokter/default.asp">Klik di sini</a></p>
+        <h1 class="category">Sepuluh Topik Paling Populer Saat Ini</h1>
         <div class="wrapper ">
             <div class="faq-item">
                 <a href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Sakit Kepala Bagian Belakang</a>
@@ -51,17 +50,17 @@
                 <a href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Wasir</a>
                 <i class="fas fa-copy"></i>
             </div>
+            <div class="faq-item">
+                <a href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Sariawan</a>
+                <i class="fas fa-copy"></i>
+            </div>
+            <div class="faq-item">
+                <a href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Benjolan di Anus</a>
+                <i class="fas fa-copy"></i>
+            </div>
         </div>
+        <p>Jika ingin melihat jawaban lebih lengkap. <a class="redirect-1" href="https://simassehat.com/layanan/tanya_dokter/default.asp">Klik di sini</a></p>
     </div>
-    <nav aria-label="Page navigation example">
-        <ul class="pagination">
-            <li class="page-item"><i class="fa fa-angle-double-left"></i></li>
-            <li class="page-item"><a class="page-link" href="Empty.php">1</a></li>
-            <li class="page-item"><a class="page-link" href="Empty.php">2</a></li>
-            <li class="page-item"><a class="page-link" href="Empty.php">3</a></li>
-            <li class="page-item"><i class="fa fa-angle-double-right"></i></li>
-        </ul>
-    </nav>
     <div class="lower-banner">
       <a href="https://simassehat.com/layanan/tanya_dokter/default.asp"><img src="./assets/banner-lower.jpg"></a>
     </div>

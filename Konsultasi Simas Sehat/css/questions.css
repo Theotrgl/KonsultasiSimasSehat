@@ -92,6 +92,7 @@ li, a, button {
     background: #fff;
     justify-content: space-between;
     width:750px;
+    display:flex;
 }
 .faq-item i{
     margin-left:5px;
@@ -115,7 +116,8 @@ li, a, button {
   color: #179d82;
 }
 .wrapper {
-  margin-top:4%;
+  margin-top:2%;
+  margin-bottom:2%;
 }
 
 /* Pagination */

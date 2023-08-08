@@ -35,7 +35,7 @@
             </p>
         </div>
     </div>
-    <h1 class="category">Pertanyaan-pertanyaan Terbaru</h1>
+    <h1 class="category">Pertanyaan Konsultasi Paling Populer</h1>
     <div class="carousel" data-flickity='{ "autoPlay": true }'>
       <div class="carousel-cell">
         <img src="./assets/1.png" alt="img-1">
