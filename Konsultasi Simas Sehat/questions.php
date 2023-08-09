@@ -16,7 +16,7 @@
     </div>
 
     <div class="faq-container">
-        <h1 class="category">Sepuluh Topik Paling Populer Saat Ini</h1>
+        <h1 class="category">Sepuluh Topik Terbaru</h1>
         <div class="wrapper ">
             <div class="faq-item">
                 <a href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Sakit Kepala Bagian Belakang</a>
@@ -73,25 +73,25 @@
       <div class="footer-col">
         <h4>ASURANSI SINAR MAS</h4>
         <ul>
-          <li><a href="#">Plaza Simas, Jl. KH Fachrudin No.18</a></li>
-          <li><a href="#">Tanah Abang, Jakarta 10250</a></li>
-          <li><a href="#">Telp. 021 2918 9999 (Hunting)</a></li>
-          <li><a href="#">Telp. 021 5050 9888 (Hunting)</a></li>
+          <li><a>Plaza Simas, Jl. KH Fachrudin No.18</a></li>
+          <li><a>Tanah Abang, Jakarta 10250</a></li>
+          <li><a>Telp. 021 2918 9999 (Hunting)</a></li>
+          <li><a>Telp. 021 5050 9888 (Hunting)</a></li>
 
         </ul>
       </div>
       <div class="footer-col">
         <h4>Layanan di Jam Kerja</h4>
         <ul>
-          <li><a href="#">Whatapp Official <img src="./assets/wa.png" width="14px"> 021 806 00691</a></li>
-          <li><a href="#">Whatapp Pembayaran Premi <img src="./assets/wa.png" width="14px"> 0881 117 6644</a></li>
-          <li><a href="#">Whatapp Notifikasi Polis <img src="./assets/wa.png" width="14px"> 0881 234 0900</a></li>
+          <li><a>Whatapp Official <img src="./assets/wa.png" width="14px"> 021 806 00691</a></li>
+          <li><a>Whatapp Pembayaran Premi <img src="./assets/wa.png" width="14px"> 0881 117 6644</a></li>
+          <li><a>Whatapp Notifikasi Polis <img src="./assets/wa.png" width="14px"> 0881 234 0900</a></li>
         </ul>
       </div>
       <div class="footer-col">
         <h4>Email Official</h4>
         <ul>
-          <li><a href="#">info@sinarmas.co.id</a></li>
+          <li><a>info@sinarmas.co.id</a></li>
         </ul>
       </div>
       <div class="footer-col">

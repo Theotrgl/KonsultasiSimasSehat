@@ -16,7 +16,7 @@
           <a href="index.php"><img src="./assets/logo-2.png" class="logo"></a>
           <h3>Tanyakan Kesehatanmu di</h3>
           <h1>Konsultasi Simas Sehat</h1>
-          <button onclick="window.location.href='questions.php'" class="banner-button">Learn More</button>
+          <button onclick="window.location.href='questions.php'" class="banner-button">Selengkapnya</button>
         </div>
     </div>
 
@@ -35,14 +35,14 @@
             </p>
         </div>
     </div>
-    <h1 class="category">Pertanyaan Konsultasi Paling Populer</h1>
+    <h1 class="category">5 Pertanyaan Konsultasi Paling Populer</h1>
     <div class="carousel" data-flickity='{ "autoPlay": true }'>
       <div class="carousel-cell">
         <img src="./assets/1.png" alt="img-1">
         <div class="text">
           <h2>Title 1</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed orci vitae hendrerit. Maecenas maximus elit quis ultrices varius. Quisque iaculis et felis id vehicula.</p>
-          <button onclick="window.location.href='answer.php'"class="card-button">Learn More</button>
+          <button onclick="window.location.href='answer.php'"class="card-button">Selengkapnya</button>
         </div>
       </div>
       <div class="carousel-cell">
@@ -50,7 +50,7 @@
         <div class="text">
           <h2>Title 2</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed orci vitae hendrerit. Maecenas maximus elit quis ultrices varius. Quisque iaculis et felis id vehicula.</p>
-          <button class="card-button">Learn More</button>
+          <button class="card-button">Selengkapnya</button>
         </div>
       </div>
       <div class="carousel-cell">
@@ -58,7 +58,7 @@
         <div class="text">
           <h2>Title 3</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed orci vitae hendrerit. Maecenas maximus elit quis ultrices varius. Quisque iaculis et felis id vehicula.</p>
-          <button class="card-button">Learn More</button>
+          <button class="card-button">Selengkapnya</button>
         </div>
       </div>
       <div class="carousel-cell">
@@ -66,14 +66,14 @@
         <div class="text">
           <h2>Title 4</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed orci vitae hendrerit. Maecenas maximus elit quis ultrices varius. Quisque iaculis et felis id vehicula.</p>
-          <button class="card-button">Learn More</button>
+          <button class="card-button">Selengkapnya</button>
         </div></div>
       <div class="carousel-cell">
         <img src="./assets/5.png" alt="img-1">
         <div class="text">
           <h2>Title 5</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed orci vitae hendrerit. Maecenas maximus elit quis ultrices varius. Quisque iaculis et felis id vehicula.</p>
-          <button class="card-button">Learn More</button>
+          <button class="card-button">Selengkapnya</button>
         </div>
       </div>
     </div>
@@ -86,24 +86,25 @@
           <div class="footer-col">
             <h4>ASURANSI SINAR MAS</h4>
             <ul>
-              <li><a href="#">Plaza Simas, Jl. KH Fachrudin No.18</a></li>
-              <li><a href="#">Tanah Abang, Jakarta 10250</a></li>
-              <li><a href="#">Telp. 021 2918 9999 (Hunting)</a></li>
-              <li><a href="#">Telp. 021 5050 9888 (Hunting)</a></li>
+              <li><a>Plaza Simas, Jl. KH Fachrudin No.18</a></li>
+              <li><a>Tanah Abang, Jakarta 10250</a></li>
+              <li><a>Telp. 021 2918 9999 (Hunting)</a></li>
+              <li><a>Telp. 021 5050 9888 (Hunting)</a></li>
+
             </ul>
           </div>
           <div class="footer-col">
             <h4>Layanan di Jam Kerja</h4>
             <ul>
-              <li><a href="#">Whatapp Official <img src="./assets/wa.png" width="14px"> 021 806 00691</a></li>
-              <li><a href="#">Whatapp Pembayaran Premi <img src="./assets/wa.png" width="14px"> 0881 117 6644</a></li>
-              <li><a href="#">Whatapp Notifikasi Polis <img src="./assets/wa.png" width="14px"> 0881 234 0900</a></li>
+              <li><a>Whatapp Official <img src="./assets/wa.png" width="14px"> 021 806 00691</a></li>
+              <li><a>Whatapp Pembayaran Premi <img src="./assets/wa.png" width="14px"> 0881 117 6644</a></li>
+              <li><a>Whatapp Notifikasi Polis <img src="./assets/wa.png" width="14px"> 0881 234 0900</a></li>
             </ul>
           </div>
           <div class="footer-col">
             <h4>Email Official</h4>
             <ul>
-              <li><a href="#">info@sinarmas.co.id</a></li>
+              <li><a>info@sinarmas.co.id</a></li>
             </ul>
           </div>
           <div class="footer-col">

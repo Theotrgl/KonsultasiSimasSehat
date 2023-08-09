@@ -10,14 +10,13 @@
 body{
   background-color: #EEE;
 }
-
-li, a, button {
-    font-family: "Montserrat", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    color: white;
-    text-decoration: none;
-  }
+button {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+  text-decoration: none;
+}
 /* Banner */
 .banner{
   position:relative;
@@ -76,6 +75,7 @@ object-fit: cover;
 /* Article */
 .article{
   background:transparent;
+  font-family: "Quicksand", sans-serif;
 }
 .article h1{
   font-family: 'Spartan MB',sans-serif;
@@ -85,12 +85,10 @@ object-fit: cover;
   margin-bottom:5px;
 }
 .article h3{
-  font-family: 'Quicksand',sans-serif;
   margin-bottom:10px;
   text-decoration: underline;
 }
 .article p{
-  font-family: 'Quicksand',sans-serif;
   font-size:17px;
   color: rgb(123, 123, 123);
   text-align: justify;
@@ -117,6 +115,7 @@ object-fit: cover;
 }
 .redirect-1{
   color:blue;
+  text-decoration: none;
 }
 .redirect-1:hover{
   text-decoration: underline;
@@ -200,6 +199,7 @@ object-fit: cover;
 	color: white;
 	display: block;
 	transition: all 0.3s ease;
+  font-family: "Quicksand", sans-serif;
 }
 .footer-col ul{
   list-style: none;

@@ -11,15 +11,13 @@
 body{
   background-color: #EEE;
 }
-
-li, a, button {
+button {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 15px;
     color: white;
     text-decoration: none;
-  }
-
+}
 /* Banner */
 .banner{
     position:relative;
@@ -93,6 +91,10 @@ li, a, button {
     justify-content: space-between;
     width:750px;
     display:flex;
+}
+.faq-item a{
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
 }
 .faq-item i{
     margin-left:5px;
@@ -221,7 +223,7 @@ ul{
 	color: white;
 	display: block;
 	transition: all 0.3s ease;
-  font-family: "Quicksand", sans-serif;
+    font-family: "Quicksand", sans-serif;
 }
 .footer-col .social-links a{
 	display: inline-block;

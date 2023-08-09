@@ -16,7 +16,7 @@
       <a href="index.php"><img src="./assets/logo-2.png" class="logo"></a>
       <h3>Tanyakan Kesehatanmu di</h3>
       <h1>Konsultasi Simas Sehat</h1>
-      <button onclick="window.location.href='questions.php'" class="banner-button">Learn More</button>
+      <button onclick="window.location.href='questions.php'" class="banner-button">Selengkapnya</button>
     </div>
 </div>
 
@@ -89,25 +89,25 @@
       <div class="footer-col">
         <h4>ASURANSI SINAR MAS</h4>
         <ul>
-          <li><a href="#">Plaza Simas, Jl. KH Fachrudin No.18</a></li>
-          <li><a href="#">Tanah Abang, Jakarta 10250</a></li>
-          <li><a href="#">Telp. 021 2918 9999 (Hunting)</a></li>
-          <li><a href="#">Telp. 021 5050 9888 (Hunting)</a></li>
+          <li><a>Plaza Simas, Jl. KH Fachrudin No.18</a></li>
+          <li><a>Tanah Abang, Jakarta 10250</a></li>
+          <li><a>Telp. 021 2918 9999 (Hunting)</a></li>
+          <li><a>Telp. 021 5050 9888 (Hunting)</a></li>
 
         </ul>
       </div>
       <div class="footer-col">
         <h4>Layanan di Jam Kerja</h4>
         <ul>
-          <li><a href="#">Whatapp Official <img src="./assets/wa.png" width="14px"> 021 806 00691</a></li>
-          <li><a href="#">Whatapp Pembayaran Premi <img src="./assets/wa.png" width="14px"> 0881 117 6644</a></li>
-          <li><a href="#">Whatapp Notifikasi Polis <img src="./assets/wa.png" width="14px"> 0881 234 0900</a></li>
+          <li><a>Whatapp Official <img src="./assets/wa.png" width="14px"> 021 806 00691</a></li>
+          <li><a>Whatapp Pembayaran Premi <img src="./assets/wa.png" width="14px"> 0881 117 6644</a></li>
+          <li><a>Whatapp Notifikasi Polis <img src="./assets/wa.png" width="14px"> 0881 234 0900</a></li>
         </ul>
       </div>
       <div class="footer-col">
         <h4>Email Official</h4>
         <ul>
-          <li><a href="#">info@sinarmas.co.id</a></li>
+          <li><a>info@sinarmas.co.id</a></li>
         </ul>
       </div>
       <div class="footer-col">
@@ -115,7 +115,7 @@
           <a href="#"><i class="fab fa-facebook-f"></i></a>
           <a href="#"><i class="fab fa-twitter"></i></a>
           <a href="#"><i class="fab fa-instagram"></i></a>
-          <a href="#"><i class="fab fa-linkedin-in"></i></a>
+          <a href="#"><i class="fas fa-globe"></i></a>
         </div>
       </div>
       <div class="footnote">
