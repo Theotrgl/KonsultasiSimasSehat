@@ -24,7 +24,7 @@
     <div class="article-container">
       <h1>Pengobatan Rumahan Untuk Sakit Kepala Bagian Belakang</h1>
       <div class="redirect">
-      <p class="redirect-2">Anda ingin bertanya kepada dokter sinarmas? <a class="redirect-1" href="https://simassehat.com/layanan/tanya_dokter/default.asp">Klik di sini</a></p>
+      <p class="redirect-2">Anda ingin bertanya kepada tim dokter simas sehat? <a class="redirect-1" href="https://simassehat.com/layanan/tanya_dokter/default.asp">Klik di sini</a></p>
       </div>
       <p>&nbsp</p>
       <h3>Tanya:</h3>
@@ -77,6 +77,9 @@
       <p>Team Dokter Simas Sehat</p>
     </div>
 </div>
+<div class="phone-button">
+  <button onclick="window.location.href='questions.php'">Daftar Pertanyaan</button>
+</div> 
 <div class="lower-banner">
   <a href="https://simassehat.com/layanan/tanya_dokter/default.asp"><img src="./assets/banner-lower.jpg"></a>
 </div>

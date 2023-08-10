@@ -24,17 +24,12 @@
         <div class="article-container">
             <h1>Title</h1>
             <p>&nbsp</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed orci vitae hendrerit. Maecenas maximus elit quis ultrices varius. Quisque iaculis et felis id vehicula. Morbi dapibus, arcu ac luctus gravida, nibh metus auctor justo, eget porttitor felis augue et dui. Donec sit amet tincidunt mi. Duis id tristique nibh. Suspendisse egestas lectus at malesuada posuere. Sed in hendrerit quam, ut efficitur justo. Aliquam ac tempus lectus, sit amet rhoncus nisl. 
-            </p>
-            <p>&nbsp</p>
-            <p>Phasellus at orci posuere, cursus enim sit amet, bibendum nulla. Proin quis ultrices purus, eu luctus felis. Quisque quis orci vehicula, ultricies magna quis, sodales sapien. Phasellus efficitur ac quam eget sagittis. 
-            Integer quis dui ut erat mollis finibus vitae at leo. Nuncin risus vel turpis pellentesque maximus a ac lectus. Mauris tincidunt mi et tellus feugiat sodales. Integer et magna non nulla posuere faucibus. Nullam iaculis ante convallis tellus facilisis accumsan. Mauris sollicitudin purus eget ullamcorper auctor. Etiam consectetur quam et mattis fermentum. Duis magna urna, dapibus vel lacinia et, laoreet in neque. Donec a elementum diam. Duis et ultrices odio, sit amet ornare neque. In hac habitasse platea dictumst. Aenean nec purus eu magna auctor finibus quis ac leo. Morbi urna sapien, hendrerit sit amet lacus posuere, cursus ultrices neque. Vivamus ullamcorper elit sit amet lorem consequat fringilla.
-            </P>
-            <p>&nbsp</p>
-            <p>Morbi vel porta nulla, sit amet suscipit mi. Etiam ligula justo, rutrum at mauris et, tincidunt facilisis ante. In lacinia ut metus et imperdiet. Pellentesque accumsan ante id erat tincidunt finibus. Integer at ornare nibh. Duis faucibus purus ut orci scelerisque commodo. Maecenas mattis porta orci. Fusce lectus orci, volutpat at nibh vitae, posuere euismod quam. Integer id scelerisque nisl. Sed eleifend et orci in ornare. Phasellus id lectus vitae elit posuere fermentum. Nam cursus aliquam nisl, id fringilla ex pulvinar ac. Fusce et mi aliquet, ullamcorper.
-            </p>
+            <p>Tanya Dok? Team Dokter Simas Sehat siap menjawab pertanyaan medis yang sudah diseleksi “gratis” dan mempublikasikannya disini agar membantu rekan-rekan Kita semua.</p>
         </div>
     </div>
+    <div class="phone-button">
+      <button onclick="window.location.href='questions.php'">Selengkapnya</button>
+    </div> 
     <h1 class="category">5 Pertanyaan Konsultasi Paling Populer</h1>
     <div class="carousel" data-flickity='{ "autoPlay": true }'>
       <div class="carousel-cell">

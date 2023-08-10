@@ -19,44 +19,44 @@
         <h1 class="category">Sepuluh Topik Terbaru</h1>
         <div class="wrapper ">
             <div class="faq-item">
-                <a href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Sakit Kepala Bagian Belakang</a>
-                <i class="fas fa-copy"></i>
+                <a id="link" href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Sakit Kepala Bagian Belakang</a>
+                <button id="copyButton" onclick="copyToClipboard(this)"><i class="fas fa-copy"></i></button>
             </div>
             <div class="faq-item">
-                <a href="answer.php" class="faq-question">Penyebab Bisul Sering Kambuh</a>
-                <i class="fas fa-copy"></i>
+                <a id="link" href="answer.php" class="faq-question">Penyebab Bisul Sering Kambuh</a>
+                <button id="copyButton" onclick="copyToClipboard(this)"><i class="fas fa-copy"></i></button>
             </div>
             <div class="faq-item">
-                <a href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Alergi</a>
-                <i class="fas fa-copy"></i>
+                <a id="link" href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Alergi</a>
+                <button id="copyButton" onclick="copyToClipboard(this)"><i class="fas fa-copy"></i></button>
             </div>
             <div class="faq-item">
-                <a href="answer.php" class="faq-question">Pengobatan Rumahan untuk Gatal di Kaki</a>
-                <i class="fas fa-copy"></i>
+                <a id="link" href="answer.php" class="faq-question">Pengobatan Rumahan untuk Gatal di Kaki</a>
+                <button id="copyButton" onclick="copyToClipboard(this)"><i class="fas fa-copy"></i></button>
             </div>
             <div class="faq-item">
-                <a href="answer.php" class="faq-question">Komplikasi Jika Kencing Nanah tidak di Obati</a>
-                <i class="fas fa-copy"></i>
+                <a id="link" href="answer.php" class="faq-question">Komplikasi Jika Kencing Nanah tidak di Obati</a>
+                <button id="copyButton" onclick="copyToClipboard(this)"><i class="fas fa-copy"></i></button>
             </div>
             <div class="faq-item">
-                <a href="answer.php" class="faq-question">Pengobatan Rumahan untuk Bisul Yang Pecah</a>
-                <i class="fas fa-copy"></i>
+                <a id="link" href="answer.php" class="faq-question">Pengobatan Rumahan untuk Bisul Yang Pecah</a>
+                <button id="copyButton" onclick="copyToClipboard(this)"><i class="fas fa-copy"></i></button>
             </div>
             <div class="faq-item">
-                <a href="answer.php" class="faq-question">Benjolan Di Bokong, Apakah Harus Di Operasi?</a>
-                <i class="fas fa-copy"></i>
+                <a id="link" href="answer.php" class="faq-question">Benjolan Di Bokong, Apakah Harus Di Operasi?</a>
+                <button id="copyButton" onclick="copyToClipboard(this)"><i class="fas fa-copy"></i></button>
             </div>
             <div class="faq-item">
-                <a href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Wasir</a>
-                <i class="fas fa-copy"></i>
+                <a id="link" href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Wasir</a>
+                <button id="copyButton" onclick="copyToClipboard(this)"><i class="fas fa-copy"></i></button>
             </div>
             <div class="faq-item">
-                <a href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Sariawan</a>
-                <i class="fas fa-copy"></i>
+                <a id="link" href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Sariawan</a>
+                <button id="copyButton" onclick="copyToClipboard(this)"><i class="fas fa-copy"></i></button>
             </div>
             <div class="faq-item">
-                <a href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Benjolan di Anus</a>
-                <i class="fas fa-copy"></i>
+                <a id="link" href="answer.php" class="faq-question">Pengobatan Rumahan Untuk Benjolan di Anus</a>
+                <button id="copyButton" onclick="copyToClipboard(this)"><i class="fas fa-copy"></i></button>
             </div>
         </div>
         <p>Jika ingin melihat jawaban lebih lengkap. <a class="redirect-1" href="https://simassehat.com/layanan/tanya_dokter/default.asp">Klik di sini</a></p>
@@ -116,4 +116,24 @@
 </footer>
 </body>
 <script type="text/javascript" src="plugins/js/all.min.js"></script>
+<script>
+  function copyToClipboard(button) {
+      var linkElement = button.previousElementSibling; // Select the previous sibling (the link)
+      var hrefContent = linkElement.href;
+
+      var tempInput = document.createElement('input');
+      tempInput.value = hrefContent;
+      document.body.appendChild(tempInput);
+      tempInput.select();
+      document.execCommand('copy');
+      document.body.removeChild(tempInput);
+
+      button.innerHTML = "&#x2713";
+
+      // Revert the icon back to normal after 1500 milliseconds (1.5 seconds)
+      setTimeout(function() {
+          button.innerHTML = ""; // Clear the icon
+      }, 1500);
+  }
+    </script>
 </html>
