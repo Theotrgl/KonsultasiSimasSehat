@@ -7,24 +7,31 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
     <link rel="stylesheet" href="./css/style.css">
 
-    <title>SIMAS Sehat</title>
+    <title>Konsultasi Simas Sehat</title>
 </head>
 <body>
     <div class="banner">
         <img src="./assets/banner-lower-2.jpg" alt="banner">
         <div class="banner-text">
           <a href="index.php"><img src="./assets/logo-2.png" class="logo"></a>
-          <h3>Konsultasikan Kesehatanmu Kepada</h3>
-          <h1>Dokter Simas Sehat</h1>
-          <button onclick="window.location.href='questions.php'" class="banner-button">Selengkapnya</button>
         </div>
     </div>
 
     <div class="article">
         <div class="article-container">
-            <h1>Title</h1>
+            <h1>Konsultasi Simas Sehat</h1>
             <p>&nbsp</p>
-            <p>Tanya Dok? Team Dokter Simas Sehat siap menjawab pertanyaan medis yang sudah diseleksi “gratis” dan mempublikasikannya disini agar membantu rekan-rekan Kita semua.</p>
+            <p>Konsultasi dokter simas sehat adalah layanan yang dikelola oleh Team Dokter Simas Sehat yang merupakan bagian dari PT. Asuransi Sinar Mas. Layanan ini memberikan konsultasi medis secara gratis untuk masyarakat umum yang ingin lebih tahu terkait kondisi kesehatannya. Disamping itu layanan ini dapat digunakan bagi masyarakat umum yang membutuhkan informasi tambahan terkait masalah kesehatan yang dialaminya, agar masyarakat dapat tahu lebih jauh terkait masalah kesehatan yang tengah dialami. Dikelola oleh Team Dokter Simas Sehat yang profesional, layanan ini bertujuan agar masyarakat umum dapat lebih mudah untuk mengakses dan mencari informasi terkait kondisi kesehatannya. 
+            </p>
+            <p>&nbsp</p>
+            <p>Melalui forum konsultasi dokter simas sehat, masyarakat juga dapat membaca jawaban-jawaban dari Team Dokter Simas Sehat atas pertanyaan-pertanyaan kesehatan yang sudah dijawab dan dipublikasikan. Agar masyarakat bisa mencari tahu secara langsung jika ternyata masalah kesehatan yang ingin dikonsultasikan ternyata sudah dipublikasikan sebelumnya, ataupun sekedar mencari tahu topik kesehatan apa yang tengah populer melalui forum ini. 
+            </p>
+            <p>&nbsp</p>
+            <p>Sekalipun pertanyaan dijawab langsung oleh tim dokter yang sudah berpengalaman, isi dan jawaban dari Konsultasi Dokter Simas Sehat ini hanya sebagai ilmu pengetahuan dan untuk memberikan wawasan masyarakat, dan bukan merupakan rujukan atau tidak dapat disamakan dengan Diagnosa dari Dokter. Oleh karena itu isi dari Forum Konsultasi Dokter Simas Sehat ini tidak dapat dijadikan sebagai dasar atau alasan untuk melakukan tindakan medis tertentu, Asuransi Sinar Mas (ASM) tidak bertanggung jawab apapun atas tindakan-tindakan yang didasarkan atas isi dari Forum Konsultasi Dokter Simas Sehat ini.
+            </p>
+            <p>&nbsp</p>
+            <p>Butuh Tanya Dokter ? Team Dokter Simas Sehat siap menjawab pertanyaan medis yang sudah diseleksi “GRATIS” dan mempublikasikannya disini agar membantu rekan-rekan Kita semua.
+            </p>
         </div>
     </div>
     <div class="phone-button">
@@ -33,7 +40,7 @@
     <h1 class="category">5 Pertanyaan Konsultasi Paling Populer</h1>
     <div class="carousel" data-flickity='{ "autoPlay": true }'>
       <div class="carousel-cell">
-        <img src="./assets/1.png" alt="img-1">
+        <img src="https://www.sinarmas.co.id/storage/gambar/images/upload/1992cee268335fd8235c9eab70959e03.jpg" alt="img-1">
         <div class="text">
           <h2>Title 1</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed orci vitae hendrerit. Maecenas maximus elit quis ultrices varius. Quisque iaculis et felis id vehicula.</p>
@@ -41,7 +48,7 @@
         </div>
       </div>
       <div class="carousel-cell">
-        <img src="./assets/2.png" alt="img-1">
+        <img src="https://www.sinarmas.co.id/storage/gambar/images/upload/e632ae0122f13230d93c1d5d345e280e.jpg" alt="img-1">
         <div class="text">
           <h2>Title 2</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed orci vitae hendrerit. Maecenas maximus elit quis ultrices varius. Quisque iaculis et felis id vehicula.</p>
@@ -49,7 +56,7 @@
         </div>
       </div>
       <div class="carousel-cell">
-        <img src="./assets/3.png" alt="img-1">
+        <img src="https://www.sinarmas.co.id/storage/gambar/images/upload/709efb6e92d0d82bfbd268a85e271286.jpg" alt="img-1">
         <div class="text">
           <h2>Title 3</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed orci vitae hendrerit. Maecenas maximus elit quis ultrices varius. Quisque iaculis et felis id vehicula.</p>
@@ -57,14 +64,14 @@
         </div>
       </div>
       <div class="carousel-cell">
-        <img src="./assets/4.png" alt="img-1">
+        <img src="https://www.sinarmas.co.id/storage/gambar/images/upload/340c41573e139380e311665b6eab26d3.jpg" alt="img-1">
         <div class="text">
           <h2>Title 4</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed orci vitae hendrerit. Maecenas maximus elit quis ultrices varius. Quisque iaculis et felis id vehicula.</p>
           <button class="card-button">Selengkapnya</button>
         </div></div>
       <div class="carousel-cell">
-        <img src="./assets/5.png" alt="img-1">
+        <img src="https://www.sinarmas.co.id/storage/gambar/images/upload/f3062d7fbfee7bebfbb6a47b7e674aec.jpg" alt="img-1">
         <div class="text">
           <h2>Title 5</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend sed orci vitae hendrerit. Maecenas maximus elit quis ultrices varius. Quisque iaculis et felis id vehicula.</p>

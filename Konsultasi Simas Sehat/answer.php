@@ -14,9 +14,6 @@
     <img src="./assets/banner-lower-2.jpg" alt="banner">
     <div class="banner-text">
       <a href="index.php"><img src="./assets/logo-2.png" class="logo"></a>
-      <h3>Konsultasikan Kesehatanmu Kepada</h3>
-      <h1>Dokter Simas Sehat</h1>
-      <button onclick="window.location.href='questions.php'" class="banner-button">Selengkapnya</button>
     </div>
 </div>
 
