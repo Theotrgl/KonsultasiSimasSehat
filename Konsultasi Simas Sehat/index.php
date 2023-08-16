@@ -11,9 +11,14 @@
 </head>
 <body>
     <div class="banner">
-        <img src="./assets/banner-lower-2.jpg" alt="banner">
+        <!-- <img src="./assets/banner-lower-2.jpg" alt="banner"> -->
+        <img src="./extra/banner_4.jpg" alt="banner">
         <div class="banner-text">
           <a href="index.php"><img src="./assets/logo-2.png" class="logo"></a>
+          <h2 class="top" style="margin-top:40%">It is health that is real wealth</h2>
+          <h2>and not pieces of gold and silver</h2>
+          <p>&nbsp</p>
+          <p>-Mahatma Gandhi-</p>
         </div>
     </div>
 
@@ -21,10 +26,10 @@
         <div class="article-container">
             <h1>Konsultasi Simas Sehat</h1>
             <p>&nbsp</p>
-            <p>Konsultasi dokter simas sehat adalah layanan yang dikelola oleh Team Dokter Simas Sehat yang merupakan bagian dari PT. Asuransi Sinar Mas. Layanan ini memberikan konsultasi medis secara gratis untuk masyarakat umum yang ingin lebih tahu terkait kondisi kesehatannya. Disamping itu layanan ini dapat digunakan bagi masyarakat umum yang membutuhkan informasi tambahan terkait masalah kesehatan yang dialaminya, agar masyarakat dapat tahu lebih jauh terkait masalah kesehatan yang tengah dialami. Dikelola oleh Team Dokter Simas Sehat yang profesional, layanan ini bertujuan agar masyarakat umum dapat lebih mudah untuk mengakses dan mencari informasi terkait kondisi kesehatannya. 
+            <p>Konsultasi dokter simas sehat adalah layanan yang dikelola oleh Team Dokter Simas Sehat yang merupakan bagian dari PT. Asuransi Sinar Mas. Layanan ini memberikan konsultasi medis secara gratis untuk masyarakat umum yang ingin lebih tahu terkait kondisi kesehatannya. Disamping itu layanan ini dapat digunakan bagi masyarakat umum yang membutuhkan informasi tambahan terkait masalah kesehatan yang dialaminya, agar masyarakat dapat tahu lebih jauh terkait masalah kesehatan yang tengah dialami. Dikelola oleh Team Dokter Simas Sehat yang profesional, layanan ini bertujuan agar masyarakat umum dapat lebih mudah untuk mengakses dan mencari informasi terkait kondisi kesehatannya.
             </p>
             <p>&nbsp</p>
-            <p>Melalui forum konsultasi dokter simas sehat, masyarakat juga dapat membaca jawaban-jawaban dari Team Dokter Simas Sehat atas pertanyaan-pertanyaan kesehatan yang sudah dijawab dan dipublikasikan. Agar masyarakat bisa mencari tahu secara langsung jika ternyata masalah kesehatan yang ingin dikonsultasikan ternyata sudah dipublikasikan sebelumnya, ataupun sekedar mencari tahu topik kesehatan apa yang tengah populer melalui forum ini. 
+            <p>Melalui forum konsultasi dokter simas sehat, masyarakat juga dapat membaca jawaban-jawaban dari Team Dokter Simas Sehat atas pertanyaan-pertanyaan kesehatan yang sudah dijawab dan dipublikasikan. Agar masyarakat bisa mencari tahu secara langsung jika ternyata masalah kesehatan yang ingin dikonsultasikan ternyata sudah dijawab sebelumnya, ataupun sekedar mencari tahu topik kesehatan apa yang tengah populer melalui forum ini. 
             </p>
             <p>&nbsp</p>
             <p>Sekalipun pertanyaan dijawab langsung oleh tim dokter yang sudah berpengalaman, isi dan jawaban dari Konsultasi Dokter Simas Sehat ini hanya sebagai ilmu pengetahuan dan untuk memberikan wawasan masyarakat, dan bukan merupakan rujukan atau tidak dapat disamakan dengan Diagnosa dari Dokter. Oleh karena itu isi dari Forum Konsultasi Dokter Simas Sehat ini tidak dapat dijadikan sebagai dasar atau alasan untuk melakukan tindakan medis tertentu, Asuransi Sinar Mas (ASM) tidak bertanggung jawab apapun atas tindakan-tindakan yang didasarkan atas isi dari Forum Konsultasi Dokter Simas Sehat ini.
@@ -32,6 +37,9 @@
             <p>&nbsp</p>
             <p>Butuh Tanya Dokter ? Team Dokter Simas Sehat siap menjawab pertanyaan medis yang sudah diseleksi “GRATIS” dan mempublikasikannya disini agar membantu rekan-rekan Kita semua.
             </p>
+            <div class="footnote">
+            <p style="font-size:12px;color:rgb(123, 123, 123);margin-top:5%;">*Identitas Pengguna dari aktivitas Tanya Jawab Team Dokter Simas Sehat akan Kami rahasiakan</p>
+            </div>
         </div>
     </div>
     <div class="phone-button">

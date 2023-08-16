@@ -11,9 +11,14 @@
 </head>
 <body>
 <div class="banner">
-    <img src="./assets/banner-lower-2.jpg" alt="banner">
+    <!-- <img src="./assets/banner-lower-2.jpg" alt="banner"> -->
+    <img src="./extra/banner_4.jpg" alt="banner">
     <div class="banner-text">
       <a href="index.php"><img src="./assets/logo-2.png" class="logo"></a>
+      <h2 class="top" style="margin-top:40%">It is health that is real wealth</h2>
+      <h2>and not pieces of gold and silver</h2>
+      <p>&nbsp</p>
+      <p>-Mahatma Gandhi-</p>
     </div>
 </div>
 

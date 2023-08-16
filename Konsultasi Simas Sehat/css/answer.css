@@ -31,9 +31,14 @@ button {
 .banner-text {
   position: absolute;
   display: flex;
+  color:white;
+  font-family: "Montserrat", sans-serif;
+  flex-direction: column;
   top: 0px;
   padding: 0 100px;
+  background-image: linear-gradient(to right, #000000ad , transparent);
   height:calc(100% - 3px);
+  width: 50%;
   /*padding-top:0px; */
 }
 .banner .logo {
@@ -243,6 +248,12 @@ button {
     padding: 0 50px;
     padding-top: 5px;
   }
+  .banner-text h2{
+    font-size:15px;
+  }
+  .banner-text p{
+    font-size:12px;
+  }
   .banner .logo {
     height: 60px;
     width: auto;
@@ -299,6 +310,12 @@ button {
     height: 100%;
     object-fit: cover;
     margin-left: 16%;
+  }
+  .banner-text h2{
+    font-size:13px;
+  }
+  .banner-text p{
+    font-size:11px;
   }
 }
 
@@ -384,7 +401,7 @@ button {
     object-fit: cover;
   }
   .banner .logo {
-    width: 100%;
+    width: auto;
     height: 60px;
   }
   .banner-text {
@@ -393,7 +410,7 @@ button {
     width: 100%;
     font-family: "Raleway", sans-serif;
     background-image: none;
-    background-color: #0000004d;
+    background-color: #0000001d;
     padding:0px 20px;
   }
   .phone-button {
@@ -441,5 +458,11 @@ button {
     width: 100%;
     height: auto;
     margin-left: 0;
+  }
+  .banner-text h2{
+    display: none;
+  }
+  .banner-text p{
+    display: none;
   }
 }
