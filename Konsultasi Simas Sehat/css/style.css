@@ -153,7 +153,7 @@ button {
 .lower-banner-2 {
   position: relative;
   margin-top: 5%;
-  margin-bottom: 5%;
+  margin-bottom: 0%;
   height: 250px;
   background-color: #5cd1b3;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.249);
@@ -235,6 +235,19 @@ ul {
   background-color: #495058;
   border: 1px solid white;
 }
+/* Widget */
+.widget{
+  display: none;
+  justify-content: center;
+  align-items: center;
+  padding-top:3%;
+}
+.widget-2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top:3%;
+}
 
 /*Responsive*/
 @media (max-width: 1511px) {
@@ -286,6 +299,14 @@ ul {
     width: 600px;
     object-fit: cover;
     margin-left: 18%;
+  }
+  .widget{
+    display:flex;
+    padding-bottom:0%;
+    padding-top:5%;
+  }
+  .widget-2{
+    display:none;
   }
 }
 
@@ -425,5 +446,9 @@ ul {
   }
   .banner-text p{
     display: none;
+  }
+  .widget{
+    display:flex;
+    padding-top:12%;
   }
 }

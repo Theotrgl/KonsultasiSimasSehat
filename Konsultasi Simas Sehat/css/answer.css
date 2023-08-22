@@ -227,6 +227,20 @@ button {
   background-color: #495058;
   border: 1px solid white;
 }
+/* Widget */
+.widget{
+  display: none;
+  justify-content: center;
+  align-items: center;
+  padding-bottom:0%;
+  padding-top:3%;
+}
+.widget-2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top:3%;
+}
 
 /*Responsive*/
 @media (max-width: 950px) {
@@ -282,6 +296,13 @@ button {
     width: 600px;
     object-fit: cover;
     margin-left: 18%;
+  }
+  .widget{
+    display:flex;
+    padding-top:5%;
+  }
+  .widget-2{
+    display:none;
   }
 }
 
@@ -464,5 +485,9 @@ button {
   }
   .banner-text p{
     display: none;
+  }
+  .widget{
+    display:flex;
+    padding-top:12%;
   }
 }

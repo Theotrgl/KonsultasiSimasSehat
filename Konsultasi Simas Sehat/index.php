@@ -21,7 +21,6 @@
           <p>-Mahatma Gandhi-</p>
         </div>
     </div>
-
     <div class="article">
         <div class="article-container">
             <h1>Konsultasi Simas Sehat</h1>
@@ -40,8 +39,8 @@
             <div class="footnote">
             <p style="font-size:12px;color:rgb(123, 123, 123);margin-top:5%;">*Identitas Pengguna dari aktivitas Tanya Jawab Team Dokter Simas Sehat akan Kami rahasiakan</p>
             </div>
-        </div>
-    </div>
+          </div>
+      </div>
     <div class="phone-button">
       <button onclick="window.location.href='questions.php'">Selengkapnya</button>
     </div> 
@@ -90,6 +89,8 @@
     <div class="lower-banner-2">
       <a href="https://youtube.com/playlist?list=PLgbkSGbfrPb6xPAW03z4wYB26G3NP_qym"><img src="./assets/banner-youtube-4.jpg"></a>
     </div>
+    <div class="widget" name="airvisual_widget" key="64e42efc537a24d0d5612229"></div>
+    <div class="widget-2" name="airvisual_widget" key="64e440217abfd00adcd4ddf3"></div>
     <footer class="footer">
       <div class="footer-container">
         <div class="row">
@@ -139,4 +140,5 @@
     </footer>
 </body>
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<script type="text/javascript" src="https://widget.iqair.com/script/widget_v3.0.js"></script>
 </html>

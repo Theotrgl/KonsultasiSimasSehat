@@ -88,6 +88,8 @@
 <div class="lower-banner-2">
   <a href="https://youtube.com/playlist?list=PLgbkSGbfrPb6xPAW03z4wYB26G3NP_qym"><img src="./assets/banner-youtube-4.jpg"></a>
 </div>
+<div class="widget" name="airvisual_widget" key="64e42efc537a24d0d5612229"></div>
+<div class="widget-2" name="airvisual_widget" key="64e440217abfd00adcd4ddf3"></div>
 <footer class="footer">
   <div class="footer-container">
     <div class="row">
@@ -136,4 +138,5 @@
   </div>
 </footer>
 </body>
+<script type="text/javascript" src="https://widget.iqair.com/script/widget_v3.0.js"></script>
 </html>
